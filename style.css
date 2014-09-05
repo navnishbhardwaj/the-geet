@@ -219,3 +219,131 @@ q:after {
   content: none;
 }
 /* ---------- END CSS ---------- */
+/*------------------------------- Typography ------------------------------- */
+body {
+  color: #777777;
+  font-size: 14px;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  line-height: 1.7;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: bottom;
+}
+a {
+  color: #fdd200;
+  text-decoration: none;
+}
+a:focus {
+  outline: none;
+  outline-width: 0;
+  outline-style: none;
+  outline-color: transparent;
+}
+a:hover {
+  color: #f3c800;
+}
+hr {
+  margin: 5px 0;
+  height: 1px;
+  border: 0;
+  background-color: #b3b3b1;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  padding: 10px 0;
+  color: #333332;
+  font-weight: 100;
+  font-family: Montserrat, 'Open Sans', Helvetica, Arial, sans-serif;
+  line-height: 1.7;
+}
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+  color: inherit;
+}
+h1 {
+  font-size: 30px;
+}
+h2 {
+  font-size: 25px;
+}
+h3 {
+  font-size: 22px;
+}
+h4 {
+  font-size: 19px;
+}
+h5 {
+  font-size: 17px;
+}
+h6 {
+  font-size: 15px;
+}
+p {
+  margin: 7px 0;
+  padding: 0;
+}
+ol {
+  margin-left: 20px;
+  list-style-type: decimal;
+}
+ul {
+  margin-left: 20px;
+}
+dl {
+  margin-left: 20px;
+}
+dt {
+  font-weight: bold;
+}
+small {
+  font-size: 85%;
+}
+strong {
+  font-weight: bold;
+}
+em {
+  font-style: italic;
+}
+cite {
+  font-style: normal;
+  font-size: 110%;
+}
+q {
+  font-style: italic;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+/* Blockquote */
+blockquote {
+  margin: 0 0 20px;
+  padding: 0 0 0 15px;
+  border-left: 4px solid rgba(0, 0, 0, 0.1);
+  text-align: left;
+  font: italic 120%/170% Georgia, "Times New Roman", Times, serif;
+}
+blockquote p {
+  font-weight: 300;
+}
+blockquote small {
+  display: block;
+  font-style: normal;
+  font-size: 12px;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  line-height: 1.8em;
+}
+blockquote small:before {
+  content: '\2014 \00A0';
+}
+blockquote cite {
+  font-weight: bold;
+}
+/* ------------------------------- END Typography ------------------------------- */
