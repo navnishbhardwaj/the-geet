@@ -5345,11 +5345,3 @@ input[type="text"].search-input,
 .portfolio-items-widget li:nth-of-type(4n) {
   margin-right: 0;
 }
-.portfolio-items-widget img {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  -ms-box-sizing: border-box;
-  max-width: 100%;
-  width: 100%;
-}
