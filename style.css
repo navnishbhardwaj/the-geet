@@ -5331,17 +5331,3 @@ input[type="text"].search-input,
   color: #777777;
 }
 
-
-.portfolio-items-widget {
-  overflow: hidden;
-  padding-top: 7px;
-}
-.portfolio-items-widget li {
-  float: left;
-  margin-right: 3.2%;
-  padding-bottom: 8px;
-  width: 22.2%;
-}
-.portfolio-items-widget li:nth-of-type(4n) {
-  margin-right: 0;
-}
