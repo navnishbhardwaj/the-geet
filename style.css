@@ -5316,18 +5316,4 @@ input[type="text"].search-input,
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
   filter: alpha(opacity=50);
 }
-.footer-widgets .lp-title a {
-  color: #ffffff;
-}
-.lp-title a:hover {
-  color: #fdd200;
-}
-.lp-post-info a {
-  color: inherit;
-  text-transform: uppercase;
-  font-size: 10px;
-}
-.sidebar-box .recentcomments a {
-  color: #777777;
-}
 
