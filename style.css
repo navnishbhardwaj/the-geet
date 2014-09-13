@@ -5286,26 +5286,3 @@ input[type="text"].search-input,
   font-size: 14px;
   font-weight: normal;
 }
-
-
-.lp-wrapper {
-  padding: 3px 0 2px 0;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
-}
-.lp-wrapper img {
-  margin-right: 10px;
-  margin-bottom: 5px;
-}
-.lp-wrapper .img-frame {
-  padding: 3px;
-}
-.lp-title {
-  display: block;
-  margin-top: 13px;
-  vertical-align: middle;
-  line-height: 1.5em;
-}
-.lp-title a {
-  color: #252525;
-}
-
