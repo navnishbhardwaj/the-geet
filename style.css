@@ -5256,12 +5256,3 @@ input[type="text"].search-input,
 
   margin: 0;
 }
-
-
-#not-found {
-  margin: auto;
-  width: 300px;
-  text-align: center;
-  margin-top: 45px;
-}
-
