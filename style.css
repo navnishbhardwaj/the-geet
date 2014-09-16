@@ -5264,19 +5264,4 @@ input[type="text"].search-input,
   text-align: center;
   margin-top: 45px;
 }
-#not-found h1 {
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  border-radius: 50%;
-  margin: auto;
-  padding: 0;
-  width: 200px;
-  height: 200px;
-  border: 8px solid #f7f7f7;
-  color: #f7f7f7;
-  text-align: center;
-  font-weight: normal;
-  font-size: 100px;
-  line-height: 200px;
-  font-family: arial;
-}
+
