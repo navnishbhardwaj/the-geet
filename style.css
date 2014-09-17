@@ -5227,21 +5227,4 @@ input[type="text"].search-input,
   -o-transform: scale(1.1);
   transform: scale(1.1);
 }
-.share-fb {
-  position: relative;
-  top: 0px;
-  background-color: #3d599b;
-  background-position: -445px 3px;
-}
-.share-tw {
-  background-color: #60d7fd;
-  background-position: -477px 3px;
-}
-.share-gp {
-  background-color: #e54a4f;
-  background-position: -413px 3px;
-}
-.share-pn {
-  background-color: #E85D3A;
-  background-position: -509px 3px;
-}
+
