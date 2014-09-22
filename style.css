@@ -5213,10 +5213,4 @@ input[type="text"].search-input,
 .page .social-share {
   float: left;
 }
-.share-item {
-  -webkit-transition: all 0.15s ease;
-  -moz-transition: all 0.15s ease;
-  -ms-transition: all 0.15s ease;
-  -o-transition: all 0.15s ease;
-  transition: all 0.15s ease;
-}
+
