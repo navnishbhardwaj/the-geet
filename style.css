@@ -5204,13 +5204,4 @@ input[type="text"].search-input,
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
   filter: alpha(opacity=100);
 }
-.post .social-share {
-  margin-top: 10px;
-}
-.post .social-share + .clear {
-  display: none;
-}
-.page .social-share {
-  float: left;
-}
 
