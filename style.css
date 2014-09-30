@@ -5167,19 +5167,3 @@ input[type="text"].search-input,
 .post-tag-title {
   margin-top: 0;
 }
-.share-item {
-  -webkit-transition: all 0.1s ease;
-  -moz-transition: all 0.1s ease;
-  -ms-transition: all 0.1s ease;
-  -o-transition: all 0.1s ease;
-  transition: all 0.1s ease;
-  display: inline-block;
-  overflow: hidden;
-  margin-right: 7px;
-  width: 16px;
-  height: 16px;
-  background-image: url(images/px_sprites_w.png);
-  background-size: 528px 16px;
-  background-repeat: no-repeat;
-  cursor: pointer;
-}
