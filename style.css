@@ -5150,12 +5150,3 @@ input[type="text"].search-input,
   padding: 3px;
 }
 .share-title,
-.post-tag-title {
-  display: inline-block;
-  margin-top: -8px;
-  margin-right: 5px;
-  vertical-align: middle;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  font-size: 11px;
-}
