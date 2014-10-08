@@ -5143,9 +5143,3 @@ input[type="text"].search-input,
   display: inline-block;
   margin-left: 0;
 }
-.social-share ul li {
-  -webkit-border-radius: 50px;
-  -moz-border-radius: 50px;
-  border-radius: 50px;
-  padding: 3px;
-}
