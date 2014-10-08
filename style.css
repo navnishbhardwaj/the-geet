@@ -5129,17 +5129,3 @@ input[type="text"].search-input,
 .format-quote blockquote blockquote {
   padding: 0;
 }
-.format-quote blockquote blockquote:before,
-.format-quote blockquote blockquote:after {
-  display: none;
-}
-
-
-.social-share {
-  clear: both;
-  margin-top: 20px;
-}
-.social-share ul {
-  display: inline-block;
-  margin-left: 0;
-}
