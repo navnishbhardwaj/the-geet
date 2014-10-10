@@ -5122,10 +5122,3 @@ input[type="text"].search-input,
   margin-left: -32px;
   text-indent: -3px;
 }
-.ts-right-arrow {
-  right: 50%;
-  text-indent: 2px;
-}
-.format-quote blockquote blockquote {
-  padding: 0;
-}
