@@ -5117,8 +5117,3 @@ input[type="text"].search-input,
   filter: alpha(opacity=100);
   background-color: #fdd200;
 }
-.ts-left-arrow {
-  left: 50%;
-  margin-left: -32px;
-  text-indent: -3px;
-}
