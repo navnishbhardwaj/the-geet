@@ -5076,6 +5076,3 @@ input[type="text"].search-input,
   position: relative;
   margin-right: auto;
   margin-left: auto;
-  min-height: 100px;
-  padding-bottom: 50px;
-}
