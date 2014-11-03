@@ -5079,8 +5079,3 @@ input[type="text"].search-input,
   min-height: 100px;
   padding-bottom: 50px;
 }
-.ts-arrow {
-  position: absolute;
-  bottom: 0;
-  margin-right: -32px;
-
