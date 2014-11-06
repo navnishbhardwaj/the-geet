@@ -5064,7 +5064,3 @@ input[type="text"].search-input,
   text-transform: uppercase;
   letter-spacing: 1px;
 }
-.testimonial-img {
-  -webkit-border-radius: 500px;
-  -moz-border-radius: 500px;
-  border-radius: 500px;
