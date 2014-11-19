@@ -5026,5 +5026,4 @@ input[type="text"].search-input,
 }
 .testimonial-info blockquote:before {
   content: 'red';
-  font-size: 20px;
-}
+ 
