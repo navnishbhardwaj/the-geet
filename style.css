@@ -4966,6 +4966,3 @@ input[type="text"].search-input,
   cursor: pointer;
 }
 .jspArrow.jspDisabled {
-  background: #80808d;
-  cursor: default;
-}
