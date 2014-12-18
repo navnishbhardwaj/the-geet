@@ -4961,7 +4961,3 @@ input[type="text"].search-input,
 }
 .jspArrow {
   display: block;
-  background: #50506d;
-  text-indent: -20000px;
-  cursor: pointer;
-}
